@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CdHb
+comment1.params=texto
+comment1.target=CdHb(java.lang.String)
+comment2.params=texto
+comment2.target=void\ setText(java.lang.String)
+comment3.params=
+comment3.target=void\ removeImagem()
+numComments=4

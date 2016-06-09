@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AtributosBatalha
+comment0.text=\r\n\ @author\ i9\ GAMES\r\n
+comment1.params=
+comment1.target=AtributosBatalha()
+comment1.text=\r\n\ @return\ contrutor\ -\ inicia\ os\ atributos\ da\ classe\ BarraStatus.\r\n
+comment2.params=ataque\ magia\ resistencia
+comment2.target=AtributosBatalha(int,\ int,\ int)
+comment2.text=\r\n\ @return\ contrutor\ -\ inicia\ os\ atributos\ da\ classe\ BarraStatus.\r\n\ @param\ ataque\ int\ -\ valor\ de\ ataque\ da\ barra\ de\ status\r\n\ @param\ magia\ int\ -\ valor\ de\ magia\ da\ barra\ de\ status\r\n\ @param\ resistencia\ int\ -\ valor\ de\ resistencia\ da\ barra\ de\ status\r\n
+comment3.params=
+comment3.target=void\ addBarraStatus()
+comment3.text=\r\n\ @return\ void\ -\ monta\ a\ barra\ de\ status\r\n
+comment4.params=ataque
+comment4.target=void\ setAtaque(int)
+comment4.text=\r\n\ @return\ void\ -\ passa\ o\ valor\ de\ for\u00E7a\ e\ executa\ o\ m\u00E9todo\ addBarraStatus.\r\n\ @param\ ataque\ int\ -\ valor\ de\ ataque\ da\ barra\ de\ status\r\n
+comment5.params=magia
+comment5.target=void\ setMagia(int)
+comment5.text=\r\n\ @return\ void\ -\ passa\ o\ valor\ de\ for\u00E7a\ e\ executa\ o\ m\u00E9todo\ addBarraStatus.\r\n\ @param\ ataque\ magia\ -\ valor\ de\ magia\ da\ barra\ de\ status\r\n
+comment6.params=resistencia
+comment6.target=void\ setResistencia(int)
+comment6.text=\r\n\ @return\ void\ -\ passa\ o\ valor\ de\ for\u00E7a\ e\ executa\ o\ m\u00E9todo\ addBarraStatus.\r\n\ @param\ resistencia\ magia\ -\ valor\ de\ resistencia\ da\ barra\ de\ status\r\n
+numComments=7

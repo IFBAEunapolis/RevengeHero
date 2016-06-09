@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Conexao
+comment0.text=\r\n\ Classe\ que\ faz\ a\ conex\u00E3o\ e\ depois\ fecha\ o\ banco\ de\ dados.\r\n\ @author\ i9\ Games\r\n\ @version\ 1.0.0\r\n
+comment1.params=database\ user\ password
+comment1.target=Conexao(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ connect()
+comment3.params=
+comment3.target=void\ disconnect()
+numComments=4

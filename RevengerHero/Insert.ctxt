@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Insert
+comment0.text=\r\n\ Classe\ que\ representa\ as\ inser\u00E7\u00F5es\ no\ banco\ de\ dados\r\n\ @author\ i9\ Games\r\n\ @version\ 1.0.0\r\n
+comment1.params=banco\ usuario\ senha
+comment1.target=Insert(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\r\n\ @param\ banco\ Atributo\ que\ cont\u00E9m\ o\ caminho\ do\ banco\ de\ dados\r\n\ @param\ usuario\ Atributo\ que\ cont\u00E9m\ o\ nome\ de\ usu\u00E1rio\ do\ banco\ de\ dados\r\n\ @param\ senha\ Atributo\ que\ cont\u00E9m\ a\ senha\ do\ banco\ de\ dados\r\n
+comment2.params=codigo\ camX\ camY\ jogX\ jogY\ nivel
+comment2.target=void\ mundo(int,\ int,\ int,\ int,\ int,\ int)
+comment2.text=\r\n\ Realiza\ insert\ no\ mundo\ detro\ do\ banco\ de\ dados\r\n\ @param\ codigo\ Atributo\ que\ cont\u00E9m\ o\ c\u00F3digo\ do\ mundo\r\n\ @param\ camX\ Atributo\ que\ cont\u00E9m\ a\ posi\u00E7\u00E3o\ da\ camera\ na\ horizontal\r\n\ @param\ camY\ Atributo\ que\ cont\u00E9m\ a\ posi\u00E7\u00E3o\ da\ camera\ na\ vertical\r\n\ @param\ jogX\ Atributo\ que\ cont\u00E9m\ a\ posi\u00E7\u00E3o\ do\ jogador\ na\ horizontal\r\n\ @param\ jogY\ Atributo\ que\ cont\u00E9m\ a\ posi\u00E7\u00E3o\ do\ jogador\ na\ vertical\r\n\ @param\ nivel\ Atributo\ que\ cont\u00E9m\ o\ n\u00EDvel\ do\ personagem\r\n
+comment3.params=codigo\ mundo\ nome\ sexo\ classe\ pontos\ forca\ inteligencia\ estamina\ defesa
+comment3.target=void\ jogador(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment3.text=\r\n\ Realiza\ o\ insert\ no\ jogador\ dentro\ do\ banco\ de\ dados\r\n\ @param\ codigo\ Atributo\ que\ cont\u00E9m\ o\ c\u00F3digo\ do\ jogador\r\n\ @param\ mundo\ Atributo\ que\ cont\u00E9m\ o\ mundo\ do\ jogador\r\n\ @param\ nome\ Atributo\ que\ o\ nome\ do\ jogador\r\n\ @param\ sexo\ Atributo\ que\ cont\u00E9m\ o\ sexo\ do\ jogador\r\n\ @param\ classe\ Atributo\ que\ cont\u00E9m\ o\ diret\u00F3rio\ do\ jogador\r\n\ @param\ pontos\ Atributo\ que\ cont\u00E9m\ os\ pontos\ do\ jogador\r\n\ @param\ forca\ Atributo\ que\ cont\u00E9m\ a\ forca\ do\ jogador\r\n\ @param\ inteligencia\ Atributo\ que\ cont\u00E9m\ a\ inteligencia\ do\ jogador\r\n\ @param\ estamina\ Atributo\ que\ cont\u00E9m\ a\ estamina\ do\ jogador\r\n\ @param\ defesa\ Atributo\ que\ cont\u00E9m\ a\ defesa\ do\ jogador\r\n
+comment4.params=codigo\ mundo\ nome\ morto
+comment4.target=void\ inimigo(int,\ int,\ java.lang.String,\ boolean)
+comment4.text=\r\n\ Realiza\ as\ inser\u00E7\u00F5es\ do\ advers\u00E1rio\ no\ banco\ de\ dados\r\n\ @param\ codigo\ Atributo\ que\ cont\u00E9m\ o\ c\u00F3digo\ do\ advers\u00E1rio\r\n\ @param\ mundo\ Atributo\ que\ cont\u00E9m\ o\ mundo\ do\ advers\u00E1rio\r\n\ @param\ tipo\ Atributo\ que\ cont\u00E9m\ a\ categoria\ do\ advers\u00E1rio\r\n\ @param\ nome\ Atributo\ que\ cont\u00E9m\ o\ nome\ do\ advers\u00E1rio\r\n\ @param\ vida\ Atributo\ que\ cont\u00E9m\ a\ vida\ do\ inimigo\r\n\ @param\ ataque\ Atributo\ que\ cont\u00E9m\ o\ ataque\ do\ advers\u00E1rio\r\n\ @param\ defesa\ Atributo\ que\ cont\u00E9m\ a\ defesa\ do\ advers\u00E1rio\r\n\ @param\ morto\ Atributo\ que\ cont\u00E9m\ se\ o\ advers\u00E1rio\ est\u00E1\ vivo\ ou\ n\u00E3o\r\n
+numComments=5

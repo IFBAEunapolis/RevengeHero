@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Monstro
+comment0.text=\n\ Classe\ que\ representa\ o\ advers\u00E1rio\ Monstro\n\ @author\ i9\ Games\n\ @version\ 1.0.0\n
+comment1.params=id\ vida\ ataque\ defesa
+comment1.target=Monstro(java.lang.String,\ int,\ int,\ int)
+comment2.params=dano\ critical
+comment2.target=void\ receberDano(int,\ boolean)
+comment2.text=\n\ Causa\ dano\ no\ Monstro\n\ @param\ dano\ Informa\ o\ dano\ recebido\n\ @param\ critical\ Informa\ se\ o\ dano\ \u00E9\ cr\u00EDtico\ ou\ n\u00E3o\n
+numComments=3

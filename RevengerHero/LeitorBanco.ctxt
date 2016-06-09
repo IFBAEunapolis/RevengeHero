@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LeitorBanco
+comment0.text=\n\ Classe\ que\ realiza\ a\ leitura\ no\ banco\ de\ dados\n\ @author\ i9\ Games\n\ @version\ \ 1.0.0\n
+comment1.params=banco\ usuario\ senha\ cod_mundo
+comment1.target=LeitorBanco(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\n\ @param\ banco\ Atributo\ que\ cont\u00E9m\ o\ caminho\ do\ banco\ de\ dados\n\ @param\ usuario\ Atributo\ que\ cont\u00E9m\ o\ nome\ de\ usu\u00E1rio\ do\ banco\ de\ \ dados\n\ @param\ senha\ Atributo\ que\ cont\u00E9m\ a\ senha\ do\ banco\ de\ dados\n\ @param\ cod_mundo\ Atributo\ que\ cont\u00E9m\ o\ c\u00F3digo\ do\ mundo\n
+comment2.params=
+comment2.target=Jogador\ getJogador()
+comment2.text=\n\ @return\ jogador\ Atributo\ que\ cont\u00E9m\ o\ jogador\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getInimigos()
+comment3.text=\n\ @return\ inimigos\ Atributo\ do\ tipo\ ArrayList<Adversario>\ que\ cont\u00E9m\ os\ advers\u00E1rios\ restantes\ no\ mundo\n
+comment4.params=
+comment4.target=int[]\ getMundo()
+comment4.text=\n\ @return\ stt\ Atributo\ que\ cont\u00E9m\ as\ chaves\ prim\u00E1rias\ do\ mundo\n
+numComments=5

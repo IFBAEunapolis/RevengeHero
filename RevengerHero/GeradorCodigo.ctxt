@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GeradorCodigo
+comment0.text=\r\n\ Classe\ que\ representa\ as\ inser\u00E7\u00F5es\ no\ banco\ de\ dados\r\n\ @author\ i9\ Games\r\n\ @version\ 1.0.0\r\n
+comment1.params=banco\ usuario\ senha
+comment1.target=GeradorCodigo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\r\n\ @param\ banco\ Atributo\ que\ cont\u00E9m\ o\ caminho\ do\ banco\ de\ dados\r\n\ @param\ usuario\ Atributo\ que\ cont\u00E9m\ o\ nome\ de\ usu\u00E1rio\ do\ banco\ de\ dados\r\n\ @param\ senha\ Atributo\ que\ cont\u00E9m\ a\ senha\ do\ banco\ de\ dados\r\n
+comment2.params=
+comment2.target=void\ carregarCodigos()
+comment2.text=\r\n\ metodo\ que\ carrega\ a\ maior\ chave\ primaria\ do\ banco\ de\ dados,\ para\ que\ as\ proximas\r\n\ chaves\ geradas\ a\ partir\ dela\ sejam\ maiores,\ evitando\ \r\n
+comment3.params=
+comment3.target=int\ getCodMundo()
+comment3.text=\r\n\ \r\n\ @return\ gera\ a\ chave\ primaria\ para\ o\ mundo\ \r\n
+comment4.params=
+comment4.target=int\ getCodJogador()
+comment4.text=\r\n\ \r\n\ @return\ gera\ a\ chave\ primaria\ para\ o\ jogador\ \r\n
+comment5.params=
+comment5.target=int\ getCodInimigo()
+comment5.text=\r\n\ \r\n\ @return\ gera\ a\ chave\ primaria\ para\ o\ inimigo\ \r\n
+numComments=6

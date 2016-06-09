@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BarraVida
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BarraVida\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=vida
+comment1.target=BarraVida(int)
+comment2.params=
+comment2.target=void\ addBarra()
+comment3.params=vida
+comment3.target=void\ setVidaMax(int)
+comment4.params=vida
+comment4.target=void\ setVidaAt(int)
+numComments=5

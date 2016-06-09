@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Dano
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dano\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=dano\ corTexto
+comment1.target=Dano(java.lang.String,\ java.awt.Color)
+numComments=2

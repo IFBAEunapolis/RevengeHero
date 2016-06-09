@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Habilidades
+comment1.params=
+comment1.target=boolean\ passiva()
+comment2.params=
+comment2.target=void\ habilidade1()
+comment3.params=
+comment3.target=void\ habilidade2()
+comment4.params=
+comment4.target=void\ ultimate()
+numComments=5
